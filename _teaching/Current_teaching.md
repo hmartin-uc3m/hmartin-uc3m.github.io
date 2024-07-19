@@ -1,7 +1,6 @@
 ---
 title: "Teaching"
 collection: teaching
-type: "Current Courses"
 permalink: /teaching/
 ---
 
