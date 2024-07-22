@@ -10,7 +10,4 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% for post in site.publications reversed %} {% if post.type == "year" %} {% include archive-single.html %} {% endif %} {% endfor %}
