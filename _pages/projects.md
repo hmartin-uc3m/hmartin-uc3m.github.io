@@ -22,19 +22,19 @@ Research Projects
 
 Research and Innovation Contracts
 ======
--[PI] Random Number generator for cryptographic applications in ASIC. Company: Arquimea Aerospace Defence and Security. Mar-2024 to Sep-2025.
--[PI] Random number generation for IoT applications. Company: Arquimea Research Center. May-2023 to Dec-2023.
--[PI] Research on online testing and statistical analysis of random number generators for CIFRA. Company: EPICOM Apr-2023 to Oct-2023.
--[PI] PUF architecture for FPGA. Company: Secure Identity Technologies SL. Jun-2023 to Jul-2023  
--[PI] Vulnerabilities of Quantum Random Number Generation Systems for Security and Post-Quantum Cryptography. Company: Arquimea Research Center. Apr-2022 to Dec-2022.
--[PI] Sensor-based PUF identification system. Company: Arquimea Aerospace Defence and Security. Sep-2022 to Dec-2022.
--[PI] Quantum random number generation systems for security and cryptography. Company: Arquimea Research Center. Oct-2021 to Dec-2021.
+- [PI] Random Number generator for cryptographic applications in ASIC. Company: Arquimea Aerospace Defence and Security. Mar-2024 to Sep-2025.
+- [PI] Random number generation for IoT applications. Company: Arquimea Research Center. May-2023 to Dec-2023.
+- [PI] Research on online testing and statistical analysis of random number generators for CIFRA. Company: EPICOM Apr-2023 to Oct-2023.
+- [PI] PUF architecture for FPGA. Company: Secure Identity Technologies SL. Jun-2023 to Jul-2023  
+- [PI] Vulnerabilities of Quantum Random Number Generation Systems for Security and Post-Quantum Cryptography. Company: Arquimea Research Center. Apr-2022 to Dec-2022.
+- [PI] Sensor-based PUF identification system. Company: Arquimea Aerospace Defence and Security. Sep-2022 to Dec-2022.
+- [PI] Quantum random number generation systems for security and cryptography. Company: Arquimea Research Center. Oct-2021 to Dec-2021.
 
 Patents and Licenses
 ======
 
--[P1]Ref: ES2684846.. Patent: “Device and methodology for the identification of integrated circuits” Authors: Honorio Martín, Luis Entrena, Enrique San Millán. Date:03/05/2019. Owner Entity: UC3M.
--[S1] Ref.: M-005245/2019. Software: “GSR-RNG: Random number generator based on galvanic skin response”. Authors: P. Peris-Lopez, H. Martin, C.Camara. Date: 01/06/2017. Owner Entity: UC3M.
--[S2] Ref.: M-000947/2016. Software: “ECGrand: Random number generator based on ECGs”. Authors: P. Peris-Lopez, H. Martin, C.Camara. Date: 01/06/2017. Owner Entity: UC3M.
--[S3] Ref.: M-000945-47/2016. Software: “AKARI-1 y 2: Pseudorandom number generator for constrained devices”. Authors: P. Peris-Lopez, H. Martin, J.E. Tapiador, C. Camara. Date: 12/02/2016. Owner Entity: UC3M.
+- [P1]Ref: ES2684846.. Patent: “Device and methodology for the identification of integrated circuits” Authors: Honorio Martín, Luis Entrena, Enrique San Millán. Date:03/05/2019. Owner Entity: UC3M.
+- [S1] Ref.: M-005245/2019. Software: “GSR-RNG: Random number generator based on galvanic skin response”. Authors: P. Peris-Lopez, H. Martin, C.Camara. Date: 01/06/2017. Owner Entity: UC3M.
+- [S2] Ref.: M-000947/2016. Software: “ECGrand: Random number generator based on ECGs”. Authors: P. Peris-Lopez, H. Martin, C.Camara. Date: 01/06/2017. Owner Entity: UC3M.
+- [S3] Ref.: M-000945-47/2016. Software: “AKARI-1 y 2: Pseudorandom number generator for constrained devices”. Authors: P. Peris-Lopez, H. Martin, J.E. Tapiador, C. Camara. Date: 12/02/2016. Owner Entity: UC3M.
 
