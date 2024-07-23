@@ -10,7 +10,6 @@ acrobat-color: "#f70e0c"
 blogger-color: "#F37100"
 ---
 ## Current Students
-Angel Pérez Blanco, "**Deteccion de Troyanos Hardware basada en HLS**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
 
 José Luis Chavarrias López, "**Implementación hardware de función resumen para tecnología RFID**," Master's thesis, *Ingeniería Técnica Industrial: Electrónica Industrial* 2011.
 
