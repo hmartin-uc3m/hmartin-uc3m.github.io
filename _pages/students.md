@@ -9,6 +9,14 @@ github-color: "#171516"
 acrobat-color: "#f70e0c"
 blogger-color: "#F37100"
 ---
+## PhD thesis
+
+- Pedro Marcos Solorzano, "**Diseño e implementación de primitivas criptográficas eficientes para algoritmos post-cuánticos**," PhD thesis, *Doctorado en Ingeniería Eléctrica, Electrónica y Automática* Ongoing.
+
+- Alberto Ramos García, "**Diseño e implementación de funciones físicas no clonables**," PhD thesis, *Doctorado en Ingeniería Eléctrica, Electrónica y Automática* Ongoing.
+
+
+
 ## Bachelor's thesis
 
 José Luis Chavarrias López, "**Implementación hardware de función resumen para tecnología RFID**," Bachelor's thesis, *Ingeniería Técnica Industrial: Electrónica Industrial* 2011.
@@ -63,9 +71,5 @@ Ainhoa García Cortizo, "**Estudio de Ataques de Canal Lateral con Chipwhisperer
 
 María Sanz Gomez, "**Uso de PUFs para protección de propiedad intelectual en el edge**," Master's thesis, *Máster Universitario en Ciberseguridad* 2024.
 
-## PhD thesis
 
-Alberto Ramos García, "**Diseño e implementación de funciones físicas no clonables**," PhD thesis, *Doctorado en Ingeniería Eléctrica, Electrónica y Automática* Ongoing.
-
-Pedro Marcos Solorzano, "**Diseño e implementación de primitivas criptográficas eficientes para algoritmos post-cuánticos**," PhD thesis, *Doctorado en Ingeniería Eléctrica, Electrónica y Automática* Ongoing.
 
