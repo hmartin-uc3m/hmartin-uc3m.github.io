@@ -9,41 +9,43 @@ github-color: "#171516"
 acrobat-color: "#f70e0c"
 blogger-color: "#F37100"
 ---
-## Current Students
+## Bachelor's thesis
 
-José Luis Chavarrias López, "**Implementación hardware de función resumen para tecnología RFID**," Master's thesis, *Ingeniería Técnica Industrial: Electrónica Industrial* 2011.
+José Luis Chavarrias López, "**Implementación hardware de función resumen para tecnología RFID**," Bachelor's thesis, *Ingeniería Técnica Industrial: Electrónica Industrial* 2011.
 
-Iván González Toledo, "**Implementación Hardware de algoritmo criptográfico para aplicaciones RFID**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2013.
+Iván González Toledo, "**Implementación Hardware de algoritmo criptográfico para aplicaciones RFID**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2013.
 
-Elena Martínez López, "**Implementación y estudio de un generador de números aleatorios**," Master's thesis, *Ingeniería Industrial* 2015.
+Elena Martínez López, "**Implementación y estudio de un generador de números aleatorios**," Bachelor's thesis, *Ingeniería Industrial* 2015.
 
-Ayoub El Maataoui Nahal, "**Análisis de funciones físicas inclonables (PUFs) para FPGA**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2017.
+Ayoub El Maataoui Nahal, "**Análisis de funciones físicas inclonables (PUFs) para FPGA**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2017.
 
-Miguel Moreno de Miguel, "**Diseño e implementación de un sistema de cambios de marcha electrónico de un coche de fórmula student**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2018.
+Miguel Moreno de Miguel, "**Diseño e implementación de un sistema de cambios de marcha electrónico de un coche de fórmula student**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2018.
 
-Pablo Martínez Jiménez, "**Estrategias Go To Cloud de los modelos de negocio e integración con IoT (TFG Empresa)**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
+Pablo Martínez Jiménez, "**Estrategias Go To Cloud de los modelos de negocio e integración con IoT (TFG Empresa)**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
 
-Javier Moreno Segurado, "**Implementación de Red Neuronal en FPGA**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
+Javier Moreno Segurado, "**Implementación de Red Neuronal en FPGA**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
 
-Borja Verdasco Ayala, "**Implementación de función física inclonable (PUF) en FPGA**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
+Borja Verdasco Ayala, "**Implementación de función física inclonable (PUF) en FPGA**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
 
-Pablo Serrano Santos, "**Implementación de función física inclonable (PUF) en microcontroladores**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
+Pablo Serrano Santos, "**Implementación de función física inclonable (PUF) en microcontroladores**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
 
-Angel Pérez Blanco, "**Deteccion de Troyanos Hardware basada en HLS**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
+Angel Pérez Blanco, "**Deteccion de Troyanos Hardware basada en HLS**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
 
-Javier Canales Urizal, "**Desarrollo de un IP I2C para FPGA: prueba de concepto**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
+Javier Canales Urizal, "**Desarrollo de un IP I2C para FPGA: prueba de concepto**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
 
-Sergio Vinagrero Gutierrez, "**Control e implementación de función física inclonable (PUF) en un microcontrolador**," Master's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
+Sergio Vinagrero Gutierrez, "**Control e implementación de función física inclonable (PUF) en un microcontrolador**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2020.
 
-Ignacio Encinas Gonzalo, "**Desarrollo de Laboratorio Virtual para CIM**," Master's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2021.
+Ignacio Encinas Gonzalo, "**Desarrollo de Laboratorio Virtual para CIM**," Bachelor's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2021.
 
-Javier Gil Santiuste, "**Identificación de microcontroladores mediante el uso de PUFs**," Master's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2022.
+Javier Gil Santiuste, "**Identificación de microcontroladores mediante el uso de PUFs**," Bachelor's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2022.
 
-Lucia García de Santos, "**PUF-based IP protection for Neural Networks. A proof-of-concept**," Master's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2022.
+Lucia García de Santos, "**PUF-based IP protection for Neural Networks. A proof-of-concept**," Bachelor's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2022.
 
-José Pedro Martín Yubero, "**Implementación de protocolo de autenticación en FPGA**," Master's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2023.
+José Pedro Martín Yubero, "**Implementación de protocolo de autenticación en FPGA**," Bachelor's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2023.
 
-Manuel Gala Daza, "**Implementación de PUF en FPGA**," Master's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2023.
+Manuel Gala Daza, "**Implementación de PUF en FPGA**," Bachelor's thesis, *Grado en Ingeniería de Tecnologías de Telecomunicaciones* 2023.
+
+## Master's thesis
 
 Ayoub El Maataoui Nahal, "**Diseño y caracterización de un sistema de autenticación basado en PUFs para FPGA**," Master's thesis, *Master Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones* 2018.
 
@@ -60,6 +62,8 @@ María Sanz Gomez, "**Protección de Redes Neuronales mediante el uso de PUFs**,
 Ainhoa García Cortizo, "**Estudio de Ataques de Canal Lateral con Chipwhisperer**," Master's thesis, *Máster Universitario en Ciberseguridad* 2024.
 
 María Sanz Gomez, "**Uso de PUFs para protección de propiedad intelectual en el edge**," Master's thesis, *Máster Universitario en Ciberseguridad* 2024.
+
+## PhD thesis
 
 Alberto Ramos García, "**Diseño e implementación de funciones físicas no clonables**," PhD thesis, *Doctorado en Ingeniería Eléctrica, Electrónica y Automática* Ongoing.
 
