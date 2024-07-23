@@ -12,26 +12,27 @@ blogger-color: "#F37100"
 ## PhD thesis
 
 - Pedro Marcos Solorzano, "**Diseño e implementación de primitivas criptográficas eficientes para algoritmos post-cuánticos**," PhD thesis, *Doctorado en Ingeniería Eléctrica, Electrónica y Automática* Ongoing.
-
 - Alberto Ramos García, "**Diseño e implementación de funciones físicas no clonables**," PhD thesis, *Doctorado en Ingeniería Eléctrica, Electrónica y Automática* Ongoing.
 
 ## Master's thesis
 
+- María Sanz Gomez, "**Uso de PUFs para protección de propiedad intelectual en el edge**," Master's thesis, *Máster Universitario en Ciberseguridad* 2024.
+- Ainhoa García Cortizo, "**Estudio de Ataques de Canal Lateral con Chipwhisperer**," Master's thesis, *Máster Universitario en Ciberseguridad* 2024.
+- María Sanz Gomez, "**Protección de Redes Neuronales mediante el uso de PUFs**," Master's thesis, *Máster Universitario en Ingeniería de Telecomunicación* 2024.
+- Alberto Rámos García, "**Identificación de microcontroladores utilizando on-chip sensors**," Master's thesis, *Master Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones* 2022.
+- Pablo Pozuelo Martín, "**Ataque de Canal Lateral contra teclados virtuales: prueba de concepto**," Master's thesis, *Master Universitario Internet de las cosas: Tecnologías Aplicadas* 2021.
+- Javier Moreno Segurado, "**Estudio e implementación de PUF en IoT**," Master's thesis, *Master Universitario Internet de las cosas: Tecnologías Aplicadas* 2020.
+- Borja Verdasco Ayala, "**Identificación de dispositivos utilizando On-chip sensors**," Master's thesis, *Master Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones* 2020.
 - Ayoub El Maataoui Nahal, "**Diseño y caracterización de un sistema de autenticación basado en PUFs para FPGA**," Master's thesis, *Master Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones* 2018.
 
-- Borja Verdasco Ayala, "**Identificación de dispositivos utilizando On-chip sensors**," Master's thesis, *Master Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones* 2020.
 
-- Javier Moreno Segurado, "**Estudio e implementación de PUF en IoT**," Master's thesis, *Master Universitario Internet de las cosas: Tecnologías Aplicadas* 2020.
 
-- Pablo Pozuelo Martín, "**Identificación de dispositivos utilizando On-chip sensors**," Master's thesis, *Master Universitario Internet de las cosas: Tecnologías Aplicadas* 2021.
 
-- Pablo Pozuelo Martín, "**Identificación de microcontroladores utilizando on-chip sensors**," Master's thesis, *Master Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones* 2022.
 
-- María Sanz Gomez, "**Protección de Redes Neuronales mediante el uso de PUFs**," Master's thesis, *Máster Universitario en Ingeniería de Telecomunicación* 2024.
 
-- Ainhoa García Cortizo, "**Estudio de Ataques de Canal Lateral con Chipwhisperer**," Master's thesis, *Máster Universitario en Ciberseguridad* 2024.
 
-- María Sanz Gomez, "**Uso de PUFs para protección de propiedad intelectual en el edge**," Master's thesis, *Máster Universitario en Ciberseguridad* 2024.
+
+
 
 ## Bachelor's thesis
 
