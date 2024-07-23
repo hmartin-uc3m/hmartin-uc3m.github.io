@@ -39,7 +39,7 @@ blogger-color: "#F37100"
 - Borja Verdasco Ayala, "**Implementación de función física inclonable (PUF) en FPGA**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
 - Javier Moreno Segurado, "**Implementación de Red Neuronal en FPGA**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
 - Pablo Martínez Jiménez, "**Estrategias Go To Cloud de los modelos de negocio e integración con IoT (TFG Empresa)**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2019.
-  - Miguel Moreno de Miguel, "**Diseño e implementación de un sistema de cambios de marcha electrónico de un coche de fórmula student**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2018.
+- Miguel Moreno de Miguel, "**Diseño e implementación de un sistema de cambios de marcha electrónico de un coche de fórmula student**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2018.
 - Ayoub El Maataoui Nahal, "**Análisis de funciones físicas inclonables (PUFs) para FPGA**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2017.
 - Elena Martínez López, "**Implementación y estudio de un generador de números aleatorios**," Bachelor's thesis, *Ingeniería Industrial* 2015.
 - Iván González Toledo, "**Implementación Hardware de algoritmo criptográfico para aplicaciones RFID**," Bachelor's thesis, *Grado en Ingeniería Electrónica Industrial y Automática* 2013.
