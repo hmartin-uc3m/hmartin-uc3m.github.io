@@ -972,3 +972,28 @@ Martin, Honorio, Martin-Holgado, Pedro, Peris-Lopez, Pedro, Morilla, Yolanda, an
 
 {% endraw %}
 
+## [10896450](#10896450)
+
+Ramos, Alberto, Cámara, Carmen, Martín, Honorio, and Peris-Lopez, Pedro, "**AI-Driven Device Fingerprinting Using On-Chip Monitoring Sensors: A Novel Time Series-Based Approach**," *IEEE Sensors Journal*, 2025, pp. 1-1. <a href='https://dx.doi.org/10.1109/JSEN.2025.3539571' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#10896450Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {10896450,
+      author={Ramos, Alberto and Cámara, Carmen and Martín, Honorio and Peris-Lopez, Pedro},
+      journal={IEEE Sensors Journal},
+       title={AI-Driven Device Fingerprinting Using On-Chip Monitoring Sensors: A Novel Time Series-Based Approach},
+       year={2025},
+      volume={},
+      number={},
+      pages={1-1},
+      keywords={Sensors;Object recognition;Monitoring;Temperature sensors;System-on-chip;Fingerprint recognition;Voltage;Time series analysis;Temperature measurement;Hardware;AI-Driven;Anti-counterfeiting;Device Identification;On-Chip Monitoring Sensor},
+      doi={10.1109/JSEN.2025.3539571}
+}
+```
+
+{% endraw %}
+
