@@ -9,7 +9,7 @@ author_profile: true
 
 Research Projects
 ======
-- [Researcher] EPIQ: Cátedra Universidad-Empresa EPIQ: Circuitos electrónicos y fotónicos Integrados para tecnologías cuánticas. MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA- Arquimea Research Center. 2024 - 2027
+- [Researcher] EPIQ: Cátedra Universidad-Empresa EPIQ: Circuitos electrónicos y fotónicos Integrados para tecnologías cuánticas. Ministerio para la Transformación Digital y de la Función Pública - Arquimea Research Center. 2024 - 2027
 - [Researcher] VITAL-IoT:Resolviendo aspectos clave en la ciberseguridad de sistemas IoT personales de los que depende la vida de personas. INCIBE. 2023 - 2025 
 - [Researcher] Secure Communication via Classical and Quantum Technologies. NATO SPS Project G5985 2023 - 2026 
 - [PI] DYPSY-TECH: Transformación digital del sector de la psicología: Sensado y procesado eficiente de características fisiológicas. TED2021-131401A-C22 2022-2024
